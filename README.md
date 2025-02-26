@@ -9,11 +9,6 @@
 
 ![Image](https://github.com/user-attachments/assets/f20179f7-8f3b-4f6f-b4d4-602d145d126a)
 
-https://github.com/user-attachments/assets/b4840165-7c2d-46ca-8351-03405bc10058
-https://github.com/user-attachments/assets/3dd1b6b8-5016-41e7-a35c-fcd43cbe4765
-https://github.com/user-attachments/assets/741dad0e-df36-4b40-a3a2-caaeebdc2896
-https://github.com/user-attachments/assets/1d8e4cd9-1d10-4ff8-ad9a-052c8312f27b
-
 ### Завдання — Пошук зображень
 
 Створи застосунок пошуку зображень за ключовим словом і їх перегляду в галереї.
@@ -72,7 +67,7 @@ CSS-код бібліотеки до проєкту, необхідно дода
 
 Переглянь демо-відео роботи застосунку на цьому етапі:
 
-video 1
+https://github.com/user-attachments/assets/d117c971-b785-4f42-87d7-e1c06b57c6d6
 
 ### Галерея і картки зображень
 
@@ -98,7 +93,7 @@ video 1
 
 Переглянь демо-відео роботи застосунку на цьому етапі:
 
-video 2
+https://github.com/user-attachments/assets/9bbda0ce-70ad-406c-a0e1-cffbe4e1ae71
 
 ### Бібліотека SimpleLightbox
 
@@ -124,7 +119,7 @@ video 2
 
 Переглянь демо-відео роботи застосунку на цьому етапі.
 
-video 3
+https://github.com/user-attachments/assets/1735bdac-b299-43c4-85f5-6e88b81ad9ed
 
 ### Індикатор завантаження
 
@@ -134,7 +129,7 @@ video 3
 
 Переглянь демо-відео роботи застосунку на цьому етапі.
 
-video 4
+https://github.com/user-attachments/assets/10dde088-8488-4224-8e01-407e7908242d
 
 Замість банального тексту, як це реалізовано в демовідео, використовуй
 бібліотеку з гарними індикаторами завантаження `css-loader`. Відеоінструкція з
